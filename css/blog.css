@@ -1,0 +1,11 @@
+h1 {
+  font-size: 52px;
+  color: #e814e1;
+  font-weight: bolder;
+}
+
+.article {
+border-top-style: solid;
+  font-style: italic;
+  color: green;
+}
