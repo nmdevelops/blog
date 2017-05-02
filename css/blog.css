@@ -9,3 +9,10 @@ border-top-style: solid;
   font-style: italic;
   color: green;
 }
+
+.about {
+  font-weight: bolder;
+  font-stretch: extra-condensed;
+  color:gray;
+  font-size: 22px;
+}
