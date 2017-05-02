@@ -16,3 +16,20 @@ border-top-style: solid;
   color:gray;
   font-size: 22px;
 }
+
+img {
+  float: left;
+}
+
+.topbar {
+  text-align: center;
+  width: 80%;
+  float: none;
+  height: 36px;
+  background-color: gray;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
