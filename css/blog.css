@@ -5,9 +5,14 @@ h1 {
 }
 
 .article {
-border-top-style: solid;
+  border-top-style: solid;
   font-style: italic;
   color: green;
+  padding: 12px;
+  border: 2px solid green;
+  width: 900px;
+  margin-top: 6px;
+  clear: both;
 }
 
 .about {
@@ -32,4 +37,7 @@ img {
 .column {
   width: 300px;
   float: left;
+  margin: 12px;
+  padding: 4px;
+  background-color: #efefef
 }
